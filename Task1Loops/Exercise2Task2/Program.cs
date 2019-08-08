@@ -21,6 +21,8 @@ namespace Exercise2Task2
                 Console.Write(char1);
             }
 
+            Console.WriteLine();
+
 
 
             Console.WriteLine("\nTask 2 end...");
